@@ -1,0 +1,7 @@
+D:\Demo-Projects\Icertics program\bin\Debug\Icertics program.exe.config
+D:\Demo-Projects\Icertics program\bin\Debug\Icertics program.exe
+D:\Demo-Projects\Icertics program\bin\Debug\Icertics program.pdb
+D:\Demo-Projects\Icertics program\obj\Debug\Icertics program.csproj.CoreCompileInputs.cache
+D:\Demo-Projects\Icertics program\obj\Debug\Icertics program.exe
+D:\Demo-Projects\Icertics program\obj\Debug\Icertics program.pdb
+D:\Demo-Projects\Icertics program\obj\Debug\Icertics program.csprojAssemblyReference.cache
